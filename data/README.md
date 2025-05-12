@@ -11,3 +11,6 @@ The [Fox news corpus](https://github.com/sjtuprog/fox-news-comments) is publicly
 The novel movie dataset we introduce consists of 6 movies. The movies have been chosen based on keyword tags provided by the [IMDB website](https://www.imdb.com/search/keyword/).The tags Hate-speech and racism were chosen because we assumed that they were likely to containa lot of hate and offensive speech. The tag friendship was chosen to get contrary movies contain-ing a lot of normal subtitles, with less hate speechcontent. In addition, we excluded movie genres like documentations, fantasy, or musicals to keep the movies comparable to each other. Namely we have chosen the movies BlacKkKlansman (2018) which was tagged as hate-speech, Django Un-chained (2012), American History X (1998) and Pulp Fiction (1994) which were tagged as racism whereas South Park (1999) as well as The Wolf of Wall Street (2013) were tagged as friendship in December 2020.
 From the movie subtitles the utterances were scraped, cleaned and annotated bs Amazon MTurk workers. The annotated utterances  of all the movies are combined to a single file 'all_movies.csv'. Use this file to use the entire dataset of all the 6 movies. 
 
+
+VIDEO LINK:
+https://drive.google.com/file/d/1Y1AvQL6LB0NvtbL70O6D-Vv8kPfHwhsl/view?usp=sharing
